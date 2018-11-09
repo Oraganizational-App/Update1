@@ -1,5 +1,10 @@
-# Review: To-do List
-Create a functional to-do list using HTML/CSS/JS
+# Review:
+
+## Create a funtioncal to-do list using HTML/CSS
+
+## Updates
+- changed location of home button to left hand side
+- made each individual tasks into bars on each of the to-do lists
 
 ## HTML
 - Build a sample of a few items in a to-do list
@@ -18,8 +23,9 @@ Create a functional to-do list using HTML/CSS/JS
 
 What other features could we use/create? Here are a few ideas:
 
-- Drag and drop items to prioritize?
-- Give them a status colour or progress indicator
-- Store the list items (local storage? database? etc)
-- Categorize our list
-- Error handling/styling?
+- swipe to delete tasks
+- be able to star important tasks and have tho appear in the important tasks list
+- have all tasks go to all tasks list
+- create a form for adding new tasks
+- create a form for signing up
+- 
